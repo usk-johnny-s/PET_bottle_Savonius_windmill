@@ -30,12 +30,14 @@
 
 という工夫をしました。
 
-![動画：サボニウス型風車](./images/SavoniusWindmill.mp4)
+# 動画
+https://github.com/usk-johnny-s/PET_bottle_Savonius_windmill/assets/24382130/76af4bbf-c808-4e94-99b8-285c4b462b80
 
-![ステンシルpdf](./Stencil_SavoniusWindmill_V5.pdf)
+# ステンシル図面
+[ステンシルpdf](./Stencil_SavoniusWindmill_V5.pdf)
 
 ステンシルのCAD図面を修正する場合は下記rsdocxを参照してください。<br />
-![ステンシルrsdocx](./SavoniusWindmill_V5_D90H320OF29.rsdocx)<br />
+[ステンシルrsdocx](./SavoniusWindmill_V5_D90H320OF29.rsdocx)<br />
 2D-CADとしてDesignSparkMechanical(v6.0.2)を使用しました。<br />
 https://www.rs-online.com/designspark/mechanical-download-and-installation-jp
 
